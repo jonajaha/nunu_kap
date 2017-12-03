@@ -8,7 +8,8 @@ import time,random,sys,json,codecs,threading,glob
 cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
-cl
+
+ki = ki1 = ki2 = ki3 = ki4 = ki5 = ki6 = cl
 
 print u"login success"
 reload(sys)
@@ -91,7 +92,7 @@ helpMessage ="""       ꧁🍁✟ゆຸ۞のุს🍁꧂
    
 	        ⋆⋆[ ꧁🍁✟ゆຸ۞のุს🍁꧂ ]⋆⋆
 """
-KAC = [cl]
+KAC = [cl,ki,ki2,ki3,ki4,ki5,ki6]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
