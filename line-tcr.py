@@ -92,7 +92,7 @@ helpMessage ="""       ꧁🍁✟ゆຸ۞のุს🍁꧂
    
 	        ⋆⋆[ ꧁🍁✟ゆຸ۞のุს🍁꧂ ]⋆⋆
 """
-KAC = [cl,ki,ki2,ki3,ki4,ki5,ki6]
+KAC = [cl,ki,ka,kc,ks]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
