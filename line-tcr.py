@@ -12,7 +12,6 @@ kk = ki
 kk = ki
 cl
 
-
 print u"login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
